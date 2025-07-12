@@ -1,6 +1,5 @@
-**Transit Demand Forecasting for Urban Development**
+**Project Summary:**
 
-Project Summary
 This project analyzes transit demand across New York City using data from the NYC Taxi and Limousine Commission (TLC), encompassing green/yellow taxis, for-hire vehicles (FHV), and rideshare platforms. Our goal is to uncover actionable insights for urban planning, traffic optimization, and transportation equity using ride-level and geospatial data.
 
 📊 Objectives
