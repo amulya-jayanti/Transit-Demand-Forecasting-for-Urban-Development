@@ -12,8 +12,10 @@ Compare rideshare vs taxi utilization patterns to inform public/private strategi
 
 🧱 Data Sources
 
-New York City Taxi and Limousine Commission, with data and dictionaries for taxi, rideshare, and for-hire vehicle trips https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page\ 
-NYC TLC Zone data Lookup File: https://d37ci6vzurychx.cloudfront.net/misc/\
+New York City Taxi and Limousine Commission, with data and dictionaries for taxi, rideshare, and for-hire vehicle trips https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+NYC TLC Zone data Lookup File: https://d37ci6vzurychx.cloudfront.net/misc/
+
 NYC Census: https://www.nyc.gov/site/planning/planning-level/nyc-population/2020-census.page
 
 ⚙️ Data Processing Pipeline
